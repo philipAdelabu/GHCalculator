@@ -1,12 +1,12 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-const App = () => {
+const CustButton = () => {
   return (
     <View>
-      <Text>Hello GHCalculator</Text>
+      <Text>CustButton</Text>
     </View>
   )
 }
 
-export default App;
+export default CustButton;
