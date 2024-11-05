@@ -1,12 +1,9 @@
-import { View, Text } from 'react-native'
+
 import React from 'react'
+import Ui from './src/ui';
 
 const App = () => {
-  return (
-    <View>
-      <Text>Hello GHCalculator</Text>
-    </View>
-  )
+  return  <Ui />;
 }
 
 export default App;

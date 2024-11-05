@@ -1,0 +1,9 @@
+export const TEXT = '#f7f9f9';
+export const OFFTEXT = '#061931';
+export const BLACK = '#000000';
+export const KEYPAD = '#082242';
+export const BACKGROUND = '#37393b';
+export const DISPLAY = '#e3e8ef';
+export const INPUT = '#e3e8ef';
+export const SHFKEY = '#FFC300';
+export const CANCELKEY = '#C70039';
